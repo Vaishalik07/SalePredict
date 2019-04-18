@@ -1,0 +1,11 @@
+.wisnavbar{
+    width: 100%;
+    background:lightsteelblue;
+    border-color:lightsteelblue
+}
+.wisnavbar-glyph{
+    display:block;
+    text-align:center;
+    color:black;
+    font:40%;
+}
